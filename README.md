@@ -74,7 +74,7 @@ Neovim powered by [lazy.nvim](https://github.com/folke/lazy.nvim) as plugin mana
 
 ## 💖 Thanks
 This configs inspired by:
-- [typecraft](www.youtube.com/@typecraft_dev)
+- [typecraft](https://www.youtube.com/@typecraft_dev)
 - [Josean Martinez](https://www.youtube.com/@joseanmartinez)
 - [devaslife](https://www.youtube.com/@devaslife)
 - [mstcl](https://github.com/mstcl)
