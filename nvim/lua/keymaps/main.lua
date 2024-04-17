@@ -1,0 +1,10 @@
+-- Connect all nvim keymaps
+require("keymaps.nvim.main")
+require("keymaps.telescope.main")
+require("keymaps.neotree.main")
+require("keymaps.buffer.main")
+require("keymaps.emmet.main")
+require("keymaps.noice.main")
+require("keymaps.formatting.main")
+require("keymaps.linting.main")
+require("keymaps.lsp.main")
