@@ -4,10 +4,10 @@
 
 
 ## 📖 Content
-- [About](#📖_about)
-- [Appearance](#🌸_appearance)
-- [Neovim](#💻_neovim)
-- [Thanks](#💖_thanks)
+- [About](#-about)
+- [Appearance](#-appearance)
+- [Neovim](#-neovim)
+- [Thanks](#-thanks)
 
 ## 🤔 About
 This is all config that give me all necessary stuff to easily write code for my web projects. 
